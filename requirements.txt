@@ -1,0 +1,10 @@
+numpy==1.19.2
+joblib
+scipy
+scikit-learn
+pandas
+streamlit
+st-annotated-text
+matplotlib
+pybase64
+
